@@ -1,0 +1,9 @@
+OUTPUT:- 
+Enter the total number of elements: 4 
+Enter 4 integers: 23 
+2 
+1 
+5 
+ 
+Original Array: 23 2 1 5  
+Sorted Array (Ascending): 1 2 5 23
