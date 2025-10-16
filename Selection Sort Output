@@ -1,0 +1,10 @@
+OUTPUT:- 
+Enter number of elements: 6 
+Enter 6 numbers: 23 
+3 
+12 
+43 
+65 
+32 
+Original Array: 23 3 12 43 65 32  
+Sorted Array (Descending): 65 43 32 23 12 3
